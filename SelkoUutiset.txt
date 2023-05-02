@@ -487,3 +487,7 @@ piristy,cheer up
 kateellinen,jealous
 tyytyväinen,pleased
 käytännöllinen,practical
+epäily, suspicion
+houkutella,lure
+rangaista, penalize
+
