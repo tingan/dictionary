@@ -1,0 +1,310 @@
+jotta,so that
+silti ,still
+tarkenee,focus
+tunnelma,atmosphere
+sillä,for/because
+asti,until
+kohti,towards/in the direction of
+päin,towards
+tarjeta,stand the cold
+vaieta,keep silent
+paeta,escape
+aueta,open
+tyhjetä,deflate
+suureta,enlarge
+pimetä,darken
+pidetä,lengthen
+lyhetä,shorten
+kuumeta,get hot
+viiletä,get cool
+nuoreta,become young
+jäädä,stay
+jättää,leave
+pudottaa,drop
+herätä,wake up
+herättää,wake
+kaatua,fall down
+kaataa,cut down
+palata,return
+ajaa,drive
+kävellä,walk
+lähteä,go/come
+sammal,moss
+jäkälä,lichen
+pensas,shrub
+heinä,hay
+ruoho,grass
+lehmus,lime
+tammi,oak
+vaahtera,maple
+mänty,pine
+pihlaja,rowan tree
+koivu,birch
+kuusi,six/spruce
+mehiläinen,bee
+hämähäkki,spider
+perhonen,butterfly
+muurahainen,ant
+hyttynen,mosquito
+kärpänen,fly
+hyönteinen,insect
+joutsen,swan
+pöllö,owl
+sorsa,wild duck
+pääskynen,swallow
+pulu,pigeon
+lokki,seagull
+harakka,magpie
+varis,crow
+samakko,frog
+käärme,snake
+hiiri,mouse
+siili,hedgehog
+orava,squirrel
+jänis,rabbit
+susi,wolf
+kettu,fox
+hirvi,moose
+silakka,baltic herring
+ahven,perch
+hauki,pike
+lohi,salmon
+ranta,beach
+ranniko,coast
+lahti,bay
+joki,stream 
+niemi,peninsula
+salmi,strait
+vuori,mountain
+mäki,hill
+tunturi,mountain in lapland
+luonto,nature
+laudeliina,board cloth/table cloth
+kiulu,pail
+kauha,scoop
+löyly,steam
+aika,quite
+välillä,between
+onneksi,fortunately
+sillä aikaa,meanwhile
+tosin,indeed
+päin,towards
+viimeinen,last
+grillata,barbecue
+kotiinlähtö,going home
+savustaa,smoke
+parkkipaikka,parking
+tikka,dart
+heittää,throw
+riippumatto,hammock/吊床
+rantakallio,cliff
+kaadu,fall down
+varjostaa,overshadow
+kaataa,cut down
+uskaltaa,dare
+ainoa,only
+hyttynen,mosquito
+silti,still
+tarjeta,stand the cold
+viiletä,cool
+vilvoittelemassa,cooling off
+naureskella,laugh
+sytyttää ,ignite
+laituri,platform
+vihta,bath whisk
+polttopuut,firewood
+hakata ,hack
+ikävä,disappointing
+tankata,refuel
+tunnelma,atmosphere
+ei haittaa,does not matter
+vihdoin ,finally
+vedä,pull
+varas,thief
+saapas,boot
+porras,stair
+kangas,cloth
+väite,claim
+tuote,product
+tunne,feeling
+tiede,science
+sade,rain
+liikenne,transport
+liike,business/movement
+kastike,saurce
+tuuletin,ventilator
+sivellin,brush
+leivänpaahdin,toaster
+soitin,instrument
+täytyy,must
+tulos,outcome
+nilkka,ankle
+varvas,toe
+takapuoli,ass
+selkä,back
+ranne,wrist
+kyynärpää,elbow
+olkapää,shoulder
+niska,neck
+polvi,knee
+rinta,breast
+kaula,neck
+huuli,lip
+leuka,jaw
+poski,cheek
+ruumiinosat,body parts
+pikaista paranemista,get well soon
+päivystys,duty
+bakteeri,bacteria
+kätilö,midwife
+neuvola,maternity clinic
+haava,wound
+keuhkot,lungs
+selvä,clear
+sairaustodistus,medical certificate
+levätä,rest
+potilas,patient
+varata,reserve
+lopulta,finally
+vedenkeitin,kettle
+keittää,boil
+varmasti,certainly
+kurkkukipu,sore throat
+sairas,sick
+särkylääkettä,pain killer
+virustauti,viral disease
+tulehdus,inflammation
+vilustua,catch a cold
+vuotaa,leak
+oire,symptom
+taitaa,think
+kurkistaa,take a peek
+ahdas,narrow
+jono,queue
+ainoa,only
+tulikuuma,burning hot
+kokeilla,test
+laahustaa,drag
+olo,feeling
+tavallinen,normal
+terveiset,regards
+matkailu,tourism
+huudahdukset,exclamation
+toinen,another
+kuuluisa,famous
+vesiputous,waterfall
+retki,trip
+annos,dose
+kylä,village
+onneksi,fortunately
+jäljellä,left
+tapaa,meet
+ihan totta,really
+opas,guide
+kaukana,far away
+sanopa muuta,you can say that again
+inhottavaa ,disgusting
+vasta,not until
+turha,useless
+itse asiassa,actually
+nahkatakin,lether jacket
+tuliainen,souvenir
+hyvä ajatus,good idea
+mielelläni,with pleasure
+reissu,journey
+tietysti,of course
+myöhästyä,be late
+lento,flight
+tapahtua,happen
+hajota,break down
+kapteeni,captain
+yrittää,try
+korjata,repair
+luovuttaa,give up
+järjestää,arrange
+kuljetus,transportation
+kuitenkin,however
+melkein,almost
+pelätä,be afraid
+päästä,reach
+yöpyä,sleep
+ylimääräinen,extra
+ostos,purchase
+hellehattu,sun hat
+silkkipusero,silk blouse
+jutella,chat
+lentoasema,airport
+matkatavara,baggage
+matkalaukku,suitcase
+viisumi,visa
+matkavakuutus,travel insurance
+tarkastus,inspection
+tulli,customs
+majoitus,accommodation
+varaus,reservation
+nähtävyys,sight
+kiertoajelu,sightseeing tour
+eikä,neither
+varmaan,for sure
+villapusero,sweater
+housut,trousers
+farkut,jeans
+hame,skirt
+mekko,dress
+puku,suit
+sukat,socks
+saappaat,boots
+lenkkarit,sneakers
+alusvaatteet,underwear
+rintaliivit,bra
+alushousut,underpants
+kalsarit,long johns
+huivi,scarf
+pipo,woolly hat
+vyö,belt
+sateenvarjo,umbrella
+raidallinen,striped
+ruudullinen,checkered
+lenkkitossut,sneakers
+paluu,return
+meno,going
+vuokrata,rent
+eilen,yesterday
+säilön,preserve
+aloin,I started
+huutaa,yell
+kieltää,prohibit
+kääntää,turn/translate
+löytää,find
+piirtää,draw
+pyytää,request
+rakentaa,build
+siirtää,transfer
+tuntea,feel/know
+työntää,push
+vastaus,answer
+kerros,floor
+vihannes,vegetable
+elämys,experience
+hallitus,government
+kokemus,knowledge
+rukous,prayer
+sormus,ring
+yllätys,surprise
+yritys,company
+kierros,cycle
+käännös,translation
+näytös,show
+rikos,criminal/crime
+veistos,sculpture
+eines,one
+ilves,lynx
+neljännes,quarter
+veljes,brother
+kävin,i went
+työntää,push
+esitys,presentation
+jäädä,stay
+Toivottavasti,Hopefully
+löytää,find
+päästä,reach

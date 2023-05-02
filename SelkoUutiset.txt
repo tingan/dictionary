@@ -1,0 +1,489 @@
+velvollisuus,obligation
+vastuu,responsibility
+avajaistilaisuus,open ceremony
+leikkaus,cutting/surgery
+tekonivel,artificial joint
+pormestari,mayor
+ johto,leadership/executive
+maja,shelter/hut
+päämaja,headquarters
+eduskunta,parliament
+eteneminen,progression
+tiedustelu upseeri,intelligence officer
+lähetystö ,delegation/mission/deputation
+ suurlähetystö ,embassy
+vakoilija,spy
+ jännittävät,exciting
+syrjäytyminen,marginalization
+siitepöly,pollen
+pöly,dust/powder
+ratifioida,ratify
+ratifiointia,ratification
+varovainen,careful
+asiavaltuutettu,authorized representative
+teemo,theme
+maajoukkue,national team
+pahoinpitely,abuse/assault/attack
+koulutusta,training/education
+vahvistaa,approve/confirm
+poikkeus,exception
+ juontaa,host
+suuttua,get angry
+uudistus,reform
+varsinainen,actual
+Ennakko,advancement/early
+vastike,compensation
+tarve,need
+tuotanto,production
+ laajalti,widely/mostly/extensively
+ tasaus,trim
+lepoaikaa,rest time
+Veturinkuljettajat ,Locomotive drivers
+esimies,supervisor/head/director
+epäkohteliasta,impolite
+myöhästyminen,delay
+täsmällisesti,promptly
+etuajassa,ahead of time
+pidetään kiinni,be adhere to
+myöhästy,be late
+ei milellään,preferably not/ don't like
+periaatteessa,in principle
+täsmällisyys,punctuality
+kunnioittaa,respect
+vakaumus,belief/conviction
+yhä harvemmin,less and less
+kantaa,carry/collect
+hieman,slightly
+yhdyskunta,community
+määrätty,prescribed
+kohtainen,specific
+henkilökohtainen,personal
+ valvonta,surveilance/supervision/control
+jengit,gangs
+tarvike,material
+yksikkö,unit
+ammuksia,ammunition
+yleisesti,in general
+lumikuuro,snow hail
+jokunen,a few
+teräaseita,edged weapons
+ väkivalta,violence
+ilmapiiri,atmosphere
+sihteeristö,secretariat
+kanslia,office
+ jälleen,again
+ilmaiskuja,airstrike
+laajalti ,widely
+viettää,celebrate
+kansainvälinen,international
+aktiivisuuden ja tarkkaavuuden häiriötä,activity and attention disorder (ADHD)
+huolellinen,careful
+maahanmuutto,immigration
+Työperäinen,work-based
+teos,work/writing
+määräraha,fund/grant
+hovioikeus,Court of Appeal
+jutut,stuff
+ehdokas,candidate
+äänestäjää ,voter
+sopu,agreement
+määräaikainen,fix-term
+kiristys,blackmail/extortion
+Vastaamo,Reception desk
+yhdistys,association/society
+Tähtitieteellinen,astronomic
+taivaa,the sky
+Revontulet,Polar lights
+ulkoasu,appearance
+Uudenlainen,new type
+paihde,intoxicant/alcohol
+mobiilisovellus,mobile app
+ulkomaankauppa,foreign trade
+uhka,threat
+korjausrakentaminen,repair construction
+ puhaltaa,blow
+edistyä,progress
+seuranta,tracking
+korvaus,replacement
+ruisku,syringe
+ ehkä,perhaps
+ uudistus ,reform
+pettynyt,disappointed
+yhä ,still
+Ahtaaja,Stevedore
+reilut,fair
+ehdokas,candidate
+asettelu,layout
+lainsäädäntö ,legislation
+jäsenyys,membership
+keskeyttää,suspend
+varastettu,stolen
+alku,initial/start/beginning
+Perinteisesti,traditionally
+Laskiainen,Pancake Day/Shrove tuesday
+tavoite,goal
+ensisijainen,primary
+ puolustaa,defend
+kohde,target/subject/destination
+vierailu,visit
+kautta,through/via
+vakituinen,permanent/regular
+keikkatyö,on call work/ gig
+romahtaa,collapse
+uhri,victim
+rauniot,ruins
+eloonjääneitä ,survivors
+ratkaisu,solution
+valtakunta,kingdom
+sovittelija,mediator
+hyökätä,attack
+some,social media
+suunnitella,plan
+menestynyt,successful
+ irtisanoa,terminate/dismiss
+Yhteishaku,Joint search
+Elinajanodote ,life expectancy
+tausta,background
+syntyvyys,birth rate
+Kuolleisuus,Mortality
+maakunta,province
+tilaus,order/charter/subscription
+Avaruus,Space
+varainministeriö,ministry of finance
+valtio,state/government
+ ihmetystä,surprise
+aiheuttaa,cause
+luovuttaa,extradite
+Luovutus,Extradition
+Lumivyöry,Avalanche
+loukata,injure
+muistikatko,amnesia
+Tajuttomuus,Unconscious
+Kaatuminen,Falling
+lykätä,postpone
+vammais,disabled
+putoaminen,fall/drop
+väistyä,step aside/move over
+varmuus,certainty/assurance
+valmius,standby
+ johtua,be due to
+ supistua,contract/shrink
+aiemmin,previously
+taantuma,recession
+välttää,avoid
+työllistää,employ
+ irtisanominen,termination/lay off
+aikoa,plan
+ irtisanoa,terminate/lay off
+palkka,wage
+saaja,recipient
+elinkustannus,cost of living
+suostua,agree
+evakuointi,evacuation
+mahdollisuus,opportunity
+epätavallinen,unusual
+lauha,mild
+pronssia,bronze
+hopeaa,silver
+kultaa,gold
+ kautta,via
+Siirtolainen,immigrant
+voimakkaana,strong
+Inflaatio,Inflation
+epävarmuus,uncertainty
+lomautettu,laid off
+lomautus,lay-off
+ johtaa ,lead/result in
+ liukkaita,slippery
+tuulinen,windy
+sateinen,rainy
+myrsky,storm
+vapaaehtoinen ,voluntary
+pakollinen,compulsory
+keskeyttäminen,suspension/cessation
+vaunu,carriage
+panssari,armor/tank
+ taistelu,battle
+ajokeli,driving weather
+pouta,dry weather/rainless 
+yksityiskohdat,detail
+valvoja,supervisor/monitor/guardian
+ järjestyksen,order/discipline
+joukko,set/troop/gang
+ pahoinpidellä,brutalize
+vartija,guard
+vartiontiala,security sector
+tartunta,infection
+ankara,severe
+Vesivoima,Hydroelectric
+Nyrkkeilijä,Boxer
+ luovuttaminen,donation
+toimittaa,supply
+vastaava ,responsible
+luovuttaja,donor
+opisto,institute/college
+pelastus,rescue
+paristo,battery/cell
+akku,battery
+harventaa,decimate/抽取 thin out/稀释
+ala,field/domain
+aivan,very/quite
+myöntää,grant
+varapresidentti,vice president
+virka,position/official
+kuorma auto,truck
+kuormittaa,burden
+loppiainen,epiphany
+alhaalla,down
+lähiaikoina ,in the near future
+Bensa,Gasoline
+Polttoaine,Fuel
+merkittävä ,significant
+vaikutus,impact
+säästäminen,saving
+poimijat,pickers
+ulkopuole,outside
+tapaturma,accident
+Huume,Drug
+lähtien,since
+ juhlinta,celebration
+korostaa,emphasize
+tihkua,dribble
+elpyvän,recover
+paljastua,be revealed
+pölyn,dust
+pahvi,cardboard
+salakuljetus,smuggling
+sala,secret
+kokonaan,entirely
+voimakkaasti ,strongly
+hyväksikäyttö,abuse/explotation
+siunaus,blessing
+perinteisen,traditional
+hengellinen,spiritual
+ylin,supereme/top
+Katolisen,catholic
+pääosin ,mainly
+vietto,observance
+tuhota,destroy
+torkeä,outrageous/serious
+tapaus,accident
+tarpeellinen,necessary
+lapsilisä,child allowance
+Kaksinkertainen ,double
+ liikkua,move
+Paluuliikenne,Inbound traffic
+Arvioida,Estimate
+kohti,towards
+sukulainen,relative
+Menoliikenne,Outbound traffic
+koskea,concern
+viranomainen,authority
+tarpeeksi,enough
+riitaa,dispute
+riittää,suffice
+riittävyys,sufficiency
+levitä,spread
+Hengitys,Respiratory
+suojeltu,protected
+suojella,protect
+tukitoimia,support measures
+lauhtua,melt
+ edelleen,still
+paikoin,in places
+rehellisesti,honestly
+puute,shortage
+viisu,song
+edustaja ,representative
+saastuttaminen,pollution
+ lämpeneminen,warming up
+päästö,emission
+teollisuus,industry
+heikkenee,weaken
+laatu,quality
+isyysvapaata,paternity leave
+sijainen,replacement
+tuhoja,destruction
+elintarvike,grocery
+ arjessa,in everyday life
+vaikeuttaa,hamper
+kunto,fitness
+ tyyni,calm
+riittävyys,sufficiency
+Äänestys,Vote
+Kysely,Survey
+Kokoomus,Coalition
+Ydinvoimala,Nuclear Power Plant
+Käytävä,Aisle
+Tarkoitus,Purpose
+Kannattaa,Worth to
+Tutkimus,Research
+Poutainen,Dusty
+Arkisto,Archive
+Käräjäoikeus,District Court
+Teho,Intensive
+Piirit,Unit
+Ennustaa,Predict
+Keskimäärin,Average
+Hävikki,Waste
+Uskoo,Believe
+Tulevaisuudessa,in the future
+Kuluttaja,Consumer
+Liito,Association
+Arkku,Coffin
+Kuningatar,Queen
+Maisema,Landscape
+Vaihtelee,Vary
+Laittomat ,Illegal
+Sotilaat,Soldiers
+Liittyä,Join
+Velka,Debt
+Korko,Interest
+Kulutus,Consumption
+Pulaa,Shortage
+Pahimmillaan ,At worst
+Kohde,Subject
+Tuomitsee,Condemn
+Taakka,Burden
+Voimavara,Resource
+Paranna,Improve
+Työoloja,Working Condition
+Sijoitus,Investment
+Joskus,Someday
+Yhteistyö,Cooperation
+Rouva,Madam
+Aita,Fence
+Kaakkois,Southeast
+Korkeus,Height
+Kiirehtiä ,Speed up
+Suosittelee,Recommend
+Väylävirasto,Highway Agency
+Lähes,Almost
+Epäsuosittuja,Unpopular
+Luota,Trust
+Tuottaa ,Produce
+Vaikka,Although
+Epäilee,Suspect
+Hyöty,Benefit
+Onnettomuus,Accident
+Riita,Dispute
+Häiritsee,Interfere
+Tapaaminen,Meeting
+Auttaminen,Helping
+Puolustusliitto ,Defense Alliance
+Kirjallisuus,Literature
+Ennätys,Record
+Väkiluku,Population
+Ehkäisyä,Contraception
+Maanjäristys,Earthquake
+Matkustamo,Cabin
+Maalaus,Painting
+Viivästyy,Delayed
+Säännöllisesti,Regularly
+Iskut,Attacks
+Rokotukset,Vaccinations
+Puheenjohtaja,President
+Ohjusiskut ,Missile Attacks
+Julma,Cruel
+Tukea,Support
+Parhaillaan,Presently
+Pakotteita,Sanctions
+Kykyä,Ability
+Eduskunta,Parliament
+Vaikuta,Affect
+Vakituisesti,Regularly
+Vakavasti,Seriously
+Kaamos,Polar Night
+Tappiota,Loss
+Luottamus,Confidence
+haastattelu,Interview
+Voittoja,Profits
+Mielenosoitus,Protest
+Palkinto,Prize
+Päällikkö ,Chief
+Perustaa,Establish
+itsenäisyyspäivä,independence day
+tuki,support
+ varhaiskasvatus,early education
+pilvinen,cloudy
+edustaa,represent
+Itsenäinen,independent
+samanlaisia,similar
+sirkus,circus
+lahjus,bribery
+Ruuhka,Congestion
+Pahin,Worst
+Äitiyspakkaus,Maternity package
+yhteinen,common/shared
+yksityis,private
+perustuslaki,constitution
+vammaisuuden,disability
+iän,age
+sukupuolen,gender
+yhdenvertaisia ,equal
+ihailla,admire
+revontulia,northen lights
+kohta,point
+koiravaljakko,dog sled
+kalastaa,fishing
+hiihtää,move on ski 
+lasketella,go down hill ski
+erämaaluonto,wilderness nature
+kanavaa,channel/canal
+kylkilihaa,rib meat/pork ribs
+hallita,control/dominate/rule
+muiden muassa,among other things
+kuuluisaa,famous
+saaristo,archipelago
+ainutlaatuinen,unique
+vilkas,vivid/alive/lively
+virta,stream/flow/river
+keskiaikaisia,middle ages/medieval
+huvipuisto,amusement park
+viihtyä,enjoy/thrive
+nähtävää,things to see
+säkeistö,verse/stanza
+askel ,step/move
+kuvitella,imagine
+merkitys,importance/significance/meaning
+sävel,melody
+säveltää,compose
+maamme laulu,national song
+iskulause,slogan
+tunnus,logo/badge
+merkkihenkilö,iconic person/celebrity
+arvostus,appreciation/respect
+isänmaa,fatherland
+toisaalta,on the other hand
+alkamista,beginning
+salko,pole/mast
+paeta,escape
+vaikkapa,say/for example
+halki,across
+ei aavistustakaan,i have no idea
+ihan mitä vain,whatever
+yhteiskunna,society
+kotoutuminen,integration
+räjähdysmäisesti,explosively
+osuus,share/portion
+huhteetonta,blameless
+entistä enemmän,more and more
+väestö,population
+lausuminen,pronunciation
+kauhistus,horror
+tasavalta,republic/common wealth
+arvella,guess
+tiedemies,scientist
+melkein,almost
+tosiasiaa,fact
+elää,to live
+ainakin,at least
+lottovoitto,winning the lottery/jackpot
+totuus,truth
+hyvä ajatus,good idea
+kyllä se järjestyy,yes it's alright
+laiska,lazy
+piristy,cheer up
+kateellinen,jealous
+tyytyväinen,pleased
+käytännöllinen,practical
