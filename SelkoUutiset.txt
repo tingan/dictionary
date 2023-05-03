@@ -490,4 +490,3 @@ käytännöllinen,practical
 epäily, suspicion
 houkutella,lure
 rangaista, penalize
-
