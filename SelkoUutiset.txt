@@ -138,6 +138,10 @@ valtakunta,kingdom
 sovittelija,mediator
 hyökätä,attack
 some,social media
+kumppani, companion/mate/partner
+Lehdistö, Press
+Vapaus, Freedom
+koleaa, chilly
 suunnitella,plan
 menestynyt,successful
  irtisanoa,terminate/dismiss
