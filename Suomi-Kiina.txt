@@ -3,7 +3,6 @@ juosta,跑
 lukea,阅读
 lapsi leikki, 小孩在玩耍
 Kiitos,谢谢
-Vesi,水
 Kirja,书
 Kauppa,商店
 Opettaja,老师
@@ -13,3 +12,4 @@ Maito,牛奶
 Kanamuna,鸡蛋
 Peli,游戏
 Peili,镜子
+Vesi,水
