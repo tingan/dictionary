@@ -4,16 +4,16 @@ avajaistilaisuus,open ceremony
 leikkaus,cutting/surgery
 tekonivel,artificial joint
 pormestari,mayor
- johto,leadership/executive
+johto,leadership/executive
 maja,shelter/hut
 päämaja,headquarters
 eduskunta,parliament
 eteneminen,progression
 tiedustelu upseeri,intelligence officer
 lähetystö ,delegation/mission/deputation
- suurlähetystö ,embassy
+suurlähetystö ,embassy
 vakoilija,spy
- jännittävät,exciting
+jännittävät,exciting
 syrjäytyminen,marginalization
 siitepöly,pollen
 pöly,dust/powder
@@ -27,7 +27,7 @@ pahoinpitely,abuse/assault/attack
 koulutusta,training/education
 vahvistaa,approve/confirm
 poikkeus,exception
- juontaa,host
+juontaa,host
 suuttua,get angry
 uudistus,reform
 varsinainen,actual
@@ -35,8 +35,8 @@ Ennakko,advancement/early
 vastike,compensation
 tarve,need
 tuotanto,production
- laajalti,widely/mostly/extensively
- tasaus,trim
+laajalti,widely/mostly/extensively
+tasaus,trim
 lepoaikaa,rest time
 Veturinkuljettajat ,Locomotive drivers
 esimies,supervisor/head/director
@@ -58,7 +58,7 @@ yhdyskunta,community
 määrätty,prescribed
 kohtainen,specific
 henkilökohtainen,personal
- valvonta,surveilance/supervision/control
+valvonta,surveilance/supervision/control
 jengit,gangs
 tarvike,material
 yksikkö,unit
@@ -67,11 +67,11 @@ yleisesti,in general
 lumikuuro,snow hail
 jokunen,a few
 teräaseita,edged weapons
- väkivalta,violence
+väkivalta,violence
 ilmapiiri,atmosphere
 sihteeristö,secretariat
 kanslia,office
- jälleen,again
+jälleen,again
 ilmaiskuja,airstrike
 laajalti ,widely
 viettää,celebrate
@@ -101,13 +101,13 @@ mobiilisovellus,mobile app
 ulkomaankauppa,foreign trade
 uhka,threat
 korjausrakentaminen,repair construction
- puhaltaa,blow
+puhaltaa,blow
 edistyä,progress
 seuranta,tracking
 korvaus,replacement
 ruisku,syringe
- ehkä,perhaps
- uudistus ,reform
+ehkä,perhaps
+uudistus ,reform
 pettynyt,disappointed
 yhä ,still
 Ahtaaja,Stevedore
@@ -123,7 +123,7 @@ Perinteisesti,traditionally
 Laskiainen,Pancake Day/Shrove tuesday
 tavoite,goal
 ensisijainen,primary
- puolustaa,defend
+puolustaa,defend
 kohde,target/subject/destination
 vierailu,visit
 kautta,through/via
@@ -144,7 +144,7 @@ Vapaus, Freedom
 koleaa, chilly
 suunnitella,plan
 menestynyt,successful
- irtisanoa,terminate/dismiss
+irtisanoa,terminate/dismiss
 Yhteishaku,Joint search
 Elinajanodote ,life expectancy
 tausta,background
@@ -155,7 +155,7 @@ tilaus,order/charter/subscription
 Avaruus,Space
 varainministeriö,ministry of finance
 valtio,state/government
- ihmetystä,surprise
+ihmetystä,surprise
 aiheuttaa,cause
 luovuttaa,extradite
 Luovutus,Extradition
@@ -170,8 +170,8 @@ putoaminen,fall/drop
 väistyä,step aside/move over
 varmuus,certainty/assurance
 valmius,standby
- johtua,be due to
- supistua,contract/shrink
+johtua,be due to
+supistua,contract/shrink
 aiemmin,previously
 taantuma,recession
 välttää,avoid
@@ -190,15 +190,15 @@ lauha,mild
 pronssia,bronze
 hopeaa,silver
 kultaa,gold
- kautta,via
+kautta,via
 Siirtolainen,immigrant
 voimakkaana,strong
 Inflaatio,Inflation
 epävarmuus,uncertainty
 lomautettu,laid off
 lomautus,lay-off
- johtaa ,lead/result in
- liukkaita,slippery
+johtaa ,lead/result in
+liukkaita,slippery
 tuulinen,windy
 sateinen,rainy
 myrsky,storm
@@ -207,12 +207,12 @@ pakollinen,compulsory
 keskeyttäminen,suspension/cessation
 vaunu,carriage
 panssari,armor/tank
- taistelu,battle
+taistelu,battle
 ajokeli,driving weather
 pouta,dry weather/rainless 
 yksityiskohdat,detail
 valvoja,supervisor/monitor/guardian
- järjestyksen,order/discipline
+järjestyksen,order/discipline
 joukko,set/troop/gang
  pahoinpidellä,brutalize
 vartija,guard
@@ -221,7 +221,7 @@ tartunta,infection
 ankara,severe
 Vesivoima,Hydroelectric
 Nyrkkeilijä,Boxer
- luovuttaminen,donation
+luovuttaminen,donation
 toimittaa,supply
 vastaava ,responsible
 luovuttaja,donor
@@ -250,7 +250,7 @@ ulkopuole,outside
 tapaturma,accident
 Huume,Drug
 lähtien,since
- juhlinta,celebration
+juhlinta,celebration
 korostaa,emphasize
 tihkua,dribble
 elpyvän,recover
@@ -275,7 +275,7 @@ tapaus,accident
 tarpeellinen,necessary
 lapsilisä,child allowance
 Kaksinkertainen ,double
- liikkua,move
+liikkua,move
 Paluuliikenne,Inbound traffic
 Arvioida,Estimate
 kohti,towards
@@ -293,14 +293,14 @@ suojeltu,protected
 suojella,protect
 tukitoimia,support measures
 lauhtua,melt
- edelleen,still
+edelleen,still
 paikoin,in places
 rehellisesti,honestly
 puute,shortage
 viisu,song
 edustaja ,representative
 saastuttaminen,pollution
- lämpeneminen,warming up
+lämpeneminen,warming up
 päästö,emission
 teollisuus,industry
 heikkenee,weaken
@@ -309,10 +309,10 @@ isyysvapaata,paternity leave
 sijainen,replacement
 tuhoja,destruction
 elintarvike,grocery
- arjessa,in everyday life
+arjessa,in everyday life
 vaikeuttaa,hamper
 kunto,fitness
- tyyni,calm
+tyyni,calm
 riittävyys,sufficiency
 Äänestys,Vote
 Kysely,Survey
@@ -494,3 +494,5 @@ käytännöllinen,practical
 epäily, suspicion
 houkutella,lure
 rangaista, penalize
+näyttely, exhibition
+kuumuus, heat
