@@ -496,3 +496,9 @@ houkutella,lure
 rangaista, penalize
 näyttely, exhibition
 kuumuus, heat
+neuvoston, council
+vahinko, damage
+metsittäminen, forestation
+ylioppilaat, graduate students
+jäädyttää, freeze
+lähetystö, embassy
