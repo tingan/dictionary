@@ -501,4 +501,7 @@ vahinko, damage
 metsittäminen, forestation
 ylioppilaat, graduate students
 jäädyttää, freeze
-lähetystö, embassy
+lähetystö, delegation
+suurlähetystö, embassy
+edustusto, representation
+huippu, summit/top
