@@ -505,3 +505,7 @@ lähetystö, delegation
 suurlähetystö, embassy
 edustusto, representation
 huippu, summit/top
+epäreilu,unfair
+tulo, income
+toimeentulo, livelihood
+selväsanainen,outspoken
