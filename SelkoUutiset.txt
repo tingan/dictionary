@@ -509,3 +509,17 @@ epäreilu,unfair
 tulo, income
 toimeentulo, livelihood
 selväsanainen,outspoken
+muodostaja,shaper
+rahoitus,funding
+häirintä,interference
+kokee,experiences
+uskalla,dare
+kokemus,experience
+loukattu,injured
+tuijotetaan,we stare
+varsinkin,especially
+drooni,drone
+vahingoittivat,harmed
+syyttää,blame
+epäonnistuminen,failure
+hyökkäys,attack
