@@ -523,3 +523,4 @@ vahingoittivat,harmed
 syyttää,blame
 epäonnistuminen,failure
 hyökkäys,attack
+kuivenee, dry
