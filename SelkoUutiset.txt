@@ -524,3 +524,10 @@ syyttää,blame
 epäonnistuminen,failure
 hyökkäys,attack
 kuivenee, dry
+pato, dam
+Tilapäinen, temporary
+hyötyä, useful
+varmuutta, confidence
+rohkeutta, courage
+vapaaehtoinen, voluntary
+kiinnostus, interest
