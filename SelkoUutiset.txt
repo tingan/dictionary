@@ -531,3 +531,4 @@ varmuutta, confidence
 rohkeutta, courage
 vapaaehtoinen, voluntary
 kiinnostus, interest
+ripuli, diarrhea
