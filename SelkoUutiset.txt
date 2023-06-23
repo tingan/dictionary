@@ -532,3 +532,22 @@ rohkeutta, courage
 vapaaehtoinen, voluntary
 kiinnostus, interest
 ripuli, diarrhea
+verhot, drapes
+sälekaihtimet, blinds
+päiväpeitto, bedspread
+tyyny, pillow
+tyynyliinä, pillowcase
+lakana, sheet
+patja, mattress
+pussilakana, a duvet cover
+vessa, toilet
+vessanpönttö, toilet bowl
+vessapaperi, toilet paper
+roskakori, trash can
+lavuaari, sink
+pyyhe, towel
+kodinhoitohuone, utility room
+silitysrauta, iron
+silityslauta, ironing board
+kylpyhuone, bath room
+suihku, shower
