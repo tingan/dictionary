@@ -338,3 +338,12 @@ päästä, reach/get
 joten, consequently
 ihan, quite
 mielelläni, with pleasure
+matkatavara, baggage
+matkalaukku, suitcase
+käsimatkatavara, hand luggage
+matkavakuutus, travel insurance
+turvatarkastus, security check
+tulli, customs
+majoitus, accommodation
+nähtävyys, attraction/sight/showplace
+kiertoajelu, tour/sightseeing
