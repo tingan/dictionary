@@ -308,3 +308,33 @@ jäädä,stay
 Toivottavasti,Hopefully
 löytää,find
 päästä,reach
+huudahdukset, exclamations
+vesiputoukset, waterfalls
+retki, trip
+jäljellä, left
+kuuluisa,famous
+annos, dose
+opas, guide
+inhottava, disgusting
+turha, useless
+yöpyä, night stay
+itse, asiassa
+ylimääräinen, extra
+tuliainen, souvenir
+reissu, journey
+vasta, only
+ihan totta, really
+ehtiä, reach
+hajota, decompose
+sanopa muuta, you can say that again
+luovuttaa, abandon/surrender
+järjestää, arrange/organize
+kuljetus, transport
+melkein, almost/nearly
+pelätä, to be afraid
+ostos, purchase
+niin tietysti, of course
+päästä, reach/get
+joten, consequently
+ihan, quite
+mielelläni, with pleasure
