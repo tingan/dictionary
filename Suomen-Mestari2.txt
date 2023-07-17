@@ -347,3 +347,22 @@ tulli, customs
 majoitus, accommodation
 nähtävyys, attraction/sight/showplace
 kiertoajelu, tour/sightseeing
+särkeä, break/ache/vandalize
+ahdas, cramped/narrow
+kurkistaa, peek
+taitaa, know/feel
+särky, ache
+vilustunut, caught a code
+jatkua, continue
+haava, wound/ulcer
+pikaista paranemista, get well soon
+ruumiinosat, body parts
+leuka, jaw
+käsivarsi, arm
+ranne, wrist
+rinta, breast/chest
+jalka, leg/foot
+niska, neck
+nilkka, ankle
+varvas, toe
+pitää, keep/hold/need/like
