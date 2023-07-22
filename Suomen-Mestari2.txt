@@ -381,3 +381,55 @@ kangas, cloth
 saapas, boot
 tehdas, factory
 varas, thief
+lähettää, send
+asti, until
+vihdoin, finally
+saapu, arrive
+ei haittaa, does not matter
+sillä, for/that
+tunnelma, atmosphere
+kerran, once
+sillä aikaa, meanwhile
+perille, there/to the destination
+ikävä, tedious/nasty/unpleasant
+yllätys, surpise
+ei mistään, from nowhere
+vara, spare
+hakkaa, hack/beat/chop
+vihdan, bath whisk
+myöhä, late
+sytyttää tulen, start a fire
+naureskelee, laughs
+naureskella, laugh
+saunoa, take a sauna
+vilvoittele, cool off
+viilenee, getting colder
+tarkenee, stand the cold
+ainoa, only
+uskaltaa, dare
+portaat, stairs
+kaata, pour
+varjosta, overshadow
+kaadu, fall down
+päälle, on to/over
+jotta, so that
+rantakallio, cliff
+sanaristikko, crossword puzzle
+heittää, throw
+tikkaa, darts
+haitata, hinder/hamper
+pysähtyä, stop
+viereinen, next/adjacent to
+lämmetä, warm
+syttyä, ignite
+viiletä, cool off
+tarjeta, stand the cold
+porras, step/stair
+savustaa, smoke
+tosin, indeed
+välillä, between
+löyly, steam
+kauha, scoop
+kiuas, heater
+kiulu, pail
+laude, board
