@@ -433,3 +433,39 @@ kauha, scoop
 kiuas, heater
 kiulu, pail
 laude, board
+tunturi, mountain in lapland
+mäki, hill
+saari, island
+ranta, beach
+rannikko, coastline
+kallio, rock
+salmi, strait
+vuori, mountain
+joki, stream
+hauki, pike
+ahven, perch
+silakka, baltic herring
+hirvi, moose
+siili,hedgehog
+hiiri, mouse
+etana, snail
+mato, worm
+varis, crow
+harakka, magpie
+lokki, seagull
+pulu, pigeon
+pääskynen, swallow
+sorsa,duck
+pöllö, owl
+poro, reindeer
+joutsen, swan
+pihlaja, rowan
+mänty, pine
+vaahtera, maple
+tammi, oak
+lehmus, lime
+heinä, hay
+pensas, shrub
+bensa, gasoline
+jäkälä, lichen
+sammal, moss
