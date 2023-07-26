@@ -469,3 +469,41 @@ pensas, shrub
 bensa, gasoline
 jäkälä, lichen
 sammal, moss
+lähteä, go/start/depart/come
+kävellä, walk/navigate
+käydä, visit/go/come
+tulla, come/become/reach
+palata, return/turn back
+sytyttää/syttyä,ignite
+kaataa/kaatua, cut down
+herättää/herätä, wake up
+avata/aueta, open
+sulkea/sulkeutua, close
+sammuttaa/sammua, turn off
+pudottaa/pudota, drop
+jatkaa/jatkua, continue
+jättää/jäädä, leave/left
+vanheta, grow old
+nuoreta, become young
+lämmetä, warm up
+viiletä, cool off
+kuumeta, get hot
+lyhetä, shorten
+pidetä, lengthen
+pimetä, darken
+suureta, enlarge
+pienetä, decrease
+tyhjetä, deflate
+tyhjä, empty/idle/flat
+paeta,escape/run
+vaieta, keep silent
+tarjeta, stand the cold
+päälle, side
+päin, towards
+kohti, towards
+jälkeen, after
+ennen, before
+asti,until
+sillä, for
+vaikka, although
+jotta, so/that
