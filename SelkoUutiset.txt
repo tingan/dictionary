@@ -551,3 +551,22 @@ silitysrauta, iron
 silityslauta, ironing board
 kylpyhuone, bath room
 suihku, shower
+patja, mattress
+korvata, replace/compensate
+muistuttaa, reminds
+vahinko, damage
+valokuvata, photograph
+tulvia, flood
+pahempi, worse
+auheuttaa, cause
+varoittaa, warn
+saakka, until/since
+maanvyöryjä, landslides
+minkkiä, mink
+häki, cage
+tarha, farm/ranch
+rauhoittua, calm down
+jonkin verran, somewhat/ a little bit
+leviäminen, spread
+tapettu, killed
+vaaran takia, by danger
