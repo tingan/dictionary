@@ -507,3 +507,26 @@ asti,until
 sillä, for
 vaikka, although
 jotta, so/that
+salibandyä, a ball game played indoors with sticks
+jumppa, gymnastics
+jumpata, do gymnastics
+lenkki, outdoor activities/jogging/link
+juoksua, running
+keilausta, bowling
+hiihtoa, skiing
+laskettelua, downhill skiing
+luistelua, skating
+rullaluistelu, roller skating 
+ratsastusta, horseback riding
+telua, play
+joogaa, yoga
+purjehdusta, sailing
+sauva, rod
+sauvakävelyä, pole walking
+huilua, flute
+viulua, violin
+bassoa, bass
+rumpuja, drums
+kuoro, choir/chorus
+maanantaisin, every monday
+kerran, once
