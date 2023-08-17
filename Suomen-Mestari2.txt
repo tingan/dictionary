@@ -530,3 +530,20 @@ rumpuja, drums
 kuoro, choir/chorus
 maanantaisin, every monday
 kerran, once
+sauva, rod/wand
+huilua, flute
+trumpettia, trumpet
+bassoa, bass
+rumpuja, drums
+kuoro, choir
+sulkapallo, badminton
+saunominen, taking a sauna bath
+pyöräileminen, cycling
+keilaaminen, bowling
+inhota, hate/disgust
+vihata, hate
+tylsä, boring/dull
+vaikuttaa, seems/influence/affect/work/impact
+maistua, taste
+tuoksua, smell
+kiinnostunut, interested
