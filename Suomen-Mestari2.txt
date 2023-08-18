@@ -579,3 +579,10 @@ tarkasti, closely/precisely/finely/subtly
 tekijä, maker/doer/perpetrator
 harvoin, rarely
 kiinni, closed/secure/locked/caught
+neuvoa, advise/counsel/recommend
+melko, quite/pretty/reasonably/enough
+korvashakemus, compensation application
+korvaus, compensation/reimbursement/replacement
+ennen kuin, before/prior to
+omavastuu, deductible
+vastuu, responsibility/liability
