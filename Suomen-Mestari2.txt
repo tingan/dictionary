@@ -638,3 +638,19 @@ vuoronumero,shift number
 virastot, agencies/beureau
 maistraatti, registry office
 kansaneläkelaitos, national pension institute
+aina, always
+koko ajan, all the time
+ei koskaan, never
+joskus, sometimes
+välillä, between/off and on/in between times
+samaan aikaan, at the same time
+eri aikaan, at different time
+menneisyys, past
+tapahtuma, event/transaction/happening
+jälki, track/trace/footstep/imprint
+tulos, result/outcome
+kokemus, experience/practice/knowledge
+koko ikäni, all my life
+silloin tällöin, every now and then
+ei vielä, not yet
+usein, often/frequently
