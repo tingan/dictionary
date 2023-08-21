@@ -622,3 +622,19 @@ ennen kuin, before
 päätös, decision
 korvaus, compensation
 omavastuu, deductible
+asiakirjat,documentation
+muutto, migration
+valitus, appeal/complaint
+todistus, certificate/testimony
+liite, annex/attachment
+lasku, fall/invoice/bill/drop/decrease
+kuitti, receipt/voucher
+luvat, permits/license
+oleskelulupa, residence permit
+toimipiste, office
+neuvonta, info desk
+virkailija, official/clerk
+vuoronumero,shift number
+virastot, agencies/beureau
+maistraatti, registry office
+kansaneläkelaitos, national pension institute
