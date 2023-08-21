@@ -586,3 +586,39 @@ korvaus, compensation/reimbursement/replacement
 ennen kuin, before/prior to
 omavastuu, deductible
 vastuu, responsibility/liability
+keskeyttää, interrupt
+kellari, cellar
+outo, strange/weird
+sulkea, close/exclude
+sisälle, inside/indoors
+molemmat, both
+ihmeissään, wonderingly
+lukko, lock
+rikki, broken
+roikkua, hang/hang around/dangle
+hirveä, terrible/awful
+sotku, mess
+moni, many
+komero, closet/cupboard
+tavara, goods/stuff/thing
+huudahtaa, exclaim/cry/ejaculate
+uskomaton, unbelievable/incredible/fanstastic
+joku, someone/anyone
+varastaa, steal
+jokin, one/any/some/something
+rikkoa, break/violate/infringe
+huomata, note/notice
+heti, immediately/instantly
+murtautuja, burglar
+ainakin, at least
+lasketteluvälineet, skiing equipment
+rengas, ring/tire
+kuitenkaan, however/through
+ei mitään, nothing/none
+varastettu, stolen
+harvoin, rarely/seldom
+vakuutus, insurance
+ennen kuin, before
+päätös, decision
+korvaus, compensation
+omavastuu, deductible
