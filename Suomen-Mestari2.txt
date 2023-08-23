@@ -654,3 +654,27 @@ koko ikäni, all my life
 silloin tällöin, every now and then
 ei vielä, not yet
 usein, often/frequently
+neuvoa, advise/counsel
+kantaa, carry/bear/deliver
+opettaa, teach
+pyörä, wheel/bike
+oppia, learn
+pyytää, request/ask
+väsynyt, tired
+epäonnistunut, unsuccessful/luckless
+onnistunut, successful
+kadonnut, lost/missing
+kiinnostunut, interested
+kulunut, worn/past
+kyllästynyt, tired/bored/stale
+kyllästyä, get tired/weary/sicken of
+loukkaantunut, injured/offended
+saastunut, polluted/contaminated/poisoned/foul
+saastua, to be polluted
+joku, someone/anyone
+jokin, one/any/some/something/somewhere
+ei kukaan, no one/nobody
+ei mikään, nothing
+korkokengät, high heels
+tulinen, hot/fiery
+tavat, manners
