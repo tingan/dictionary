@@ -708,3 +708,13 @@ tulkata/tulkita/kääntää, interpret
 tulkki, interpreter
 tahdon, I want /i will
 tahtoa, will
+vieras, guest
+onnitella, congratulate
+onnea, congratulations
+tuoda, bring
+täti, aunt
+leikata,cut
+valssi, waltz
+morsiuskimpu, bridal bouquet
+viettää, spend/celebrate
+vilkuttaa, wave/wink
