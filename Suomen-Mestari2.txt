@@ -718,3 +718,36 @@ valssi, waltz
 morsiuskimpu, bridal bouquet
 viettää, spend/celebrate
 vilkuttaa, wave/wink
+päättää, decide/determine/choose/end/terminate
+tulkata,interpret
+molemmat, both
+harjoitella, practice/exercise/train/rehearse
+hienosti, finely/great
+hakea, apply/seek/retrieve/claim/get/fetch/pick/seek for/claim for/collect
+kimppu/nippu, bundle/bunch
+viettää,spend/celebrate
+avio, married/martial
+liitto, union/alliance
+avioliitto, marriage
+aviomies, husband
+aviovaimo, wife
+aviopari/pariskunta, couple/pair
+kosia, propose marriage to
+morsian, bride/fiancee
+sulhanen, bridegroom
+vihkiä, to marry/consecrate/ordain/devote/dedicate
+vihkisormus, wedding ring
+maistraatti, registry office
+miesystävä, male friend
+naisystävä, female friend
+poikaystävä, boyfriend
+tyttöystävä, girlfriend
+kihlajaiset, engagement
+rekisteröity parisuhde , registered partnership
+erota, separate/differ/divorce/resign
+olla eronnut, divorced
+uusperhe, new family
+isäpuoli, stepfather
+äitipuoli, stepmother
+huoltaja, caretaker
+ 
