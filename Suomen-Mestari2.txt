@@ -765,3 +765,21 @@ pikkujoulut, little christmas
 joulu, christmas
 juhlia, celebrate
 täyttää, fill/meet/satisfy/fulfill
+laittaa, put/set/cook/lay
+futuuri, future
+ohi, past/by
+niitä, them
+avaruus, space/width/wideness/vastness
+kauneus, beauty
+kirjallisuus, literature
+korkeus, height
+lapsuus, childhood
+nuoruus, youth/adolescence
+pituus, length/height
+rikkaus, wealth/richness
+sairaus, disease/illness
+syvyys, depth
+talous, economic/household
+totuus, truth
+uutuus, novelty/innovation/newness
+vanhuus, old age/age/antiquity
