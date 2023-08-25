@@ -783,3 +783,12 @@ talous, economic/household
 totuus, truth
 uutuus, novelty/innovation/newness
 vanhuus, old age/age/antiquity
+sija, location/position/case/room
+pitsiä, lace/point
+suku, family/gender
+luku, number
+kyky, ability/capacity/talent/gift
+jälki, trace/track
+järki, reason/sense/wits/sanity
+joka, which/that/who/that/any/every
+haastattelu, interview
