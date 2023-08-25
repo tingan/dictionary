@@ -750,4 +750,18 @@ uusperhe, new family
 isäpuoli, stepfather
 äitipuoli, stepmother
 huoltaja, caretaker
- 
+ristiäiset/nimijuhla, christening
+rippijuhlat, confession party
+ylioppilasjuhlat, secondary school graduate party
+50-vuotispäivät, 50 anniversaries
+hautajaiset, funeral
+valmistujaiset, graduation party
+laskiainen, shrovetide/pancake day
+pääsiäinen, easter
+vappu, first of May
+juhannus, Midsummer
+itsenäisyyspäivä, independent day
+pikkujoulut, little christmas
+joulu, christmas
+juhlia, celebrate
+täyttää, fill/meet/satisfy/fulfill
