@@ -792,3 +792,59 @@ jälki, trace/track
 järki, reason/sense/wits/sanity
 joka, which/that/who/that/any/every
 haastattelu, interview
+lehti, magazine
+ihmestyä, appear/to be published
+lukukausi, semester
+viihtyä, enjoy
+ihastua, fell in love with/be delighted 
+ihana, wonderful/lovely/delightful/beautiful/glorious/adorable/great/marvelous/fanstic/sweet/delicious
+erityisesti, specially/in particular/especially/particularly
+luotettavia, reliable
+hieman, slightly
+ujo,shy
+päättää, decide/determine
+päästä, get/reach/gain/coe to
+parikymmentä, twenty
+tietoliikennetekniikka, communication technology
+kestää, last/take/endure
+vaihtelevaa, variable
+ääressä, at/over
+osallistua, participate
+opinnot, studies
+osakeyhtiö, limited company
+yritys, company/enterprise/undertaking/firm/attempt/corporation/effort
+uutinen, news/new/item
+työtekijä, employee
+silloin, then/by then/at the time
+eri, different/various/separate/individual/distinct/diverse/miscellaneous
+vuodenaika, season
+rauhallinen, quiet/peaceful
+myöhemmin, later/subsequently/afterwards
+valmistua, graduate from
+ammattikorkeakoulu, university of applied sciences
+kielteinen, negative
+keksiä, invent/figure out/discover/dream up/find out/work out
+kontakti, contact
+koulutus, training/education/instruction/schooling
+ammattikoulu, vocational school/trade school
+sieltä, from there/thence
+automekaanikko, car mechanic
+autokorjaamo, car repair shop
+erilainen, different/unequal/diverse/various
+nykyinen, current/present/now/existing/existent
+työskennellä, work
+tiimi, team
+joukkue, team/troop
+projektipäällikkö, project manager
+oppia, learn/get to
+aloittaa, start/begin
+intensiivikurssi, intensive course
+tutustua, meet
+ulkomaalainen, foreigner/alien/noresident
+käyttää, use/exercise/wear/operate/spend/utilize/employ
+mukana, with/about/along
+kansanvälinen, international
+mahdollisimman paljon, as much as possible
+salibandy, floorball
+pelimatka, game trip
+opetella, learn
