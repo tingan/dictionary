@@ -848,3 +848,38 @@ mahdollisimman paljon, as much as possible
 salibandy, floorball
 pelimatka, game trip
 opetella, learn
+oppitunti, lesson/class/tutorial/peroid
+luento, lecture
+seminaari, seminar
+lukukausi, semester/term/session
+lukuvuosi, session
+opetella/oppia/opiskella, learn
+opettaa, teach
+harjoitella, practice/exercise
+esikoulu, preschool
+peruskoulu, primary school
+käydä, visit/go/attend/come/run
+lukio, high school/senior high school
+ylioppilas, secondary school graduate
+ylioppilaskirjoitukset, matriculation exam
+kirjoittaa ylioppilaaksi, graduate from high school
+kirjoittaa, write/spell/to take an exam in a subject at Finnish lukio
+ammattikoulu, vocational school
+amattikorkeakoulu, university of applied science
+yliopisto/korkeakoulu, university/college
+koe/tentti, test/experiment/trial/quiz/essay/paper/try-out
+arvosana, grade/mark
+todistus, certificate/testimony/transcript/warrant
+tutkinto, exam
+pyrkiä, to strive
+pääsykoe, extrance exam
+valmistua, graduate from
+hakea töitä, apply for a job
+ansioluettelo, CV
+ansio, credit/worth/merit
+luettelo, catalog/list/index/inventory/record/register
+työhakemus, job application
+työhaastattelu, job interview
+työharjoittelu, on-the-job training
+työkokemus, work experience
+harjoittelija, trainee/apprentice
