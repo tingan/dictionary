@@ -871,7 +871,7 @@ koe/tentti, test/experiment/trial/quiz/essay/paper/try-out
 arvosana, grade/mark
 todistus, certificate/testimony/transcript/warrant
 tutkinto, exam
-pyrkiä, to strive
+pyrkiä,strive/enveavour/seek/pursue/plan to become/aspire to be/run for/to tend
 pääsykoe, extrance exam
 valmistua, graduate from
 hakea töitä, apply for a job
