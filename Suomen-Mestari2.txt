@@ -883,3 +883,10 @@ työhaastattelu, job interview
 työharjoittelu, on-the-job training
 työkokemus, work experience
 harjoittelija, trainee/apprentice
+pääte, terminal/termination/ending
+näyttelijä, actor/actress/player
+kännykkä, mobile/cellular phone
+tavallisesti, usually
+kääntäjä, translator
+hämärä, twilight/dusk/dark/gloom/shadows/haze
+valoisa, bright/light/luminous
