@@ -900,3 +900,30 @@ ne, they/them
 tämä, this
 tuo, that
 se, it/he/she
+ostoksilla, shopping/purchase
+asiointi, business/transaction/ interaction between a person and an authority
+vertailu, comparison/collation
+selailla, browse
+mainos, advertisement
+tavaratalo, department store
+liikke, shop/movement/motion/business
+tarjous, offer/bid/tender/quote/quotation/bargain
+sillä, for
+aikoa, purpose/design/plan/intend/aim/be about to
+hankkia, acquire/buy/purchase/get/buy/find/provide/procure/recruit/accommodate
+lämpene, warm up
+hoitaa, take care/manage/treat/handle/run/deal with/attend/administer
+sitä paitsi/lisäksi, besides/moreover/furthermore
+paitsi, except/but/excluding/apart from/besides/in addition to
+shoppailu, shopping
+edessä, in front/ahead
+palautta, return
+hajota, break up
+valmistus, manufacturing/manufacture/making/preparation
+virhe, error/mistake/fault/defect/flaw/foul/misstep
+luulla, think/believe/suppose
+edes, at least/at all
+edullinen/halpa, inexpensive/cheap/affordable
+siinä tapauksessä, in that case/if so
+tapaus, case/incident/event/occurrence/occasion/accident
+mikäs siinä, why not
