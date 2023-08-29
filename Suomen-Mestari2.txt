@@ -958,3 +958,42 @@ kuitin, receipt/vouncher/warrant
 takuutodistus, warranty certificate
 laite, device/appliance/gadget
 mitäs sitten, what then
+kesusta, center/downtown
+alennus, discount/reduction/degradation/concession
+moni, many/multi
+muu, other/sundry/to the contrary
+aikoa, purpose/intend/design/plan/aim
+kahvinkeitin, coffee maker
+eivätkä, and neither
+kovin,very/too/so/badly/jolly
+marssia suoraan, march straight
+materiaali, material/matter/data/literature
+viallinen, defective
+lenkkitosu, running shoe
+sovittaa, match/fit/match up/try on
+usea, many
+päätyä, end up/finish up/stop/result in
+lopulta, eventually/ultimately/in the end/at last
+suunnata, direct to
+laadukas, high quality
+hieman, slightly/with a touch
+takuu, warranty
+todella, really/actually/truly/real/indeed/certainly
+hienoin, the finest
+haalea, pale/lukewarm/tepid
+bonuskortti, bonus card
+tehdä kaupat, make a sale/make a bargain
+kuitti, receipt/voucher/check/acknowlegement/sales slip
+samalla, in the process/at one time
+leivos, fancy cake/cake
+upouusi, brand-new
+ikivanha, ancient
+jääkylmä, icy
+likomärkä, drenched/soaking wet/wet through
+rutikuiva, parched/bone-dry/tinder-dry
+täpötäysi, crowded/crammed
+typötyhjä, completely empty
+vihoviimeinen, last
+ypöyksin, all alone
+pilkkopimeä, black/pitch-black/pitch-dark
+vitivalkoinen, pure white
