@@ -997,3 +997,37 @@ vihoviimeinen, last
 ypöyksin, all alone
 pilkkopimeä, black/pitch-black/pitch-dark
 vitivalkoinen, pure white
+hankkia, acquire/buy/purchase/get
+vuoronumero, shift number
+lahjakortti, gift voucher
+ostoskärry, shopping cart
+ostoskori, shopping basket
+muovikassi/muovipussi, plastic bag
+mainostaa, advertise/boost/push
+alennusmyynti, sale/clearance sale
+lopuumyynti, sold out
+tarjous, offer/tender/bid/quote/quotation/bargain
+myymälä, store/shop/market
+marketti, supermarket/market
+sisäänkäynti, entrance/entry
+liukuportaat, escalator/moving staircase
+osasto, department/stand/division/compartment/section
+varasto, stock/warehouse/storage/reservoir
+näyteikkuna, showcase
+sovitus, fitting (trying on clothes)/arrangement/atonement/adaptation
+koppi, booth/cubicle/cabin/box/hut
+sovittaa, match/try on/adapt/atone/expiate
+arvonlisävero, VAT(value added tax)
+olla voimassa, be valid/be in force
+vaihto oikeus, exchange right
+vaihtaa, exchange/change/switch/replace/trade
+kuitti, receipt/voucher
+valmistaja, manufacturer/producer
+valmistusmaa, country of manufacture
+huonolaatuinen, poor quality
+kotimainen, domestic/home/interior/home-grown/native
+pingviini, penguin
+akvaario, aquarium
+keiden, whose
+juoksija, runner
+välissä, between/in between
