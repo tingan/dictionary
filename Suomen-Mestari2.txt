@@ -1031,3 +1031,34 @@ akvaario, aquarium
 keiden, whose
 juoksija, runner
 välissä, between/in between
+vertailu, comparison
+verrata, compare
+valas, whale
+eniten, most
+enemmän, more
+vähemmän, less
+vähiten, least
+huonompi/pahempi, worse
+huonoin/pähin, worst
+matkailija, tourist/tripper
+häiritä, disturb/interfere/disrupt/distract
+inhota, hate
+juhlia, celebrate/party
+tiskata, wash the dishes
+kokeilla, try out/test/try on/sample
+käydä, visit/go
+onnitella, congraduate
+soittaa, call/play/phone/call in/ring
+sello, cello/violoncello
+sinfoniaorkesteri, symphony orchestra
+viettää, spend/celebrate
+vihata, hate
+nauttia, enjoy/use a legal right/ingest/consume
+pitää, keep/hold/like/need/maintain/retain/treat/make/give/deliver/gasp/grip/consider/teach/conduct
+haista, smell/stink
+kuulostaa, sound
+maistua, taste
+näyttää, show/look/display/seem/appear/indicate
+tuntua, seem/feel/appear/sound
+tuoksua, smell
+vaikuttaa, seem/influence/affect/work/act/sway/actuate/react
