@@ -576,3 +576,17 @@ keräys, collection/gathering
 kerätä, collect/gather
 hätä, emergency/urgency
 alle, under/below/beneath
+varastaa, steal
+patukka, bar
+levy, plate/disc/disk/sheet/slab/tile
+lihoa, gain weight
+laihtua, lose weight
+myöskään, neither
+vaihtoehto, option/choice/alternative
+ilmaus, expression/term/manifestation/demonstration/token
+vaalipiiri, constituency
+ehto, condition/clause/prerequisite/stipulation
+takka, fireplace
+takaa, guranttee
+vuoristo, range
+pako, escape/retreat/flight/fleeing/hole/tear
