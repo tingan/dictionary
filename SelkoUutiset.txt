@@ -590,3 +590,22 @@ takka, fireplace
 takaa, guranttee
 vuoristo, range
 pako, escape/retreat/flight/fleeing/hole/tear
+uhka, threat
+tekoja, actions
+etukäteen, in advance
+arvata, predict
+kerho, club/society
+kaakkois, southeastern
+hälytys, alarm/alert
+paikkalista, local
+pormestari, mayor
+julistaa, declare/proclaim/announce/publish
+lähtöaula, departure hall
+aula, lounge/lobby/hall/vestibule
+osoittaa, demonstrate/indicate/show
+vastaan, against/con
+liputus, flagging
+kunniaksi, in honor of
+kunnia, honor/glory/distinction/kudos/canopy
+enimmäkseen, mostly/mainly/largely/predominantly
+liukkaita, slippery
