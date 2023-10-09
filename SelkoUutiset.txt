@@ -633,3 +633,4 @@ hallita, controle/rule/govern/dominate
 uskonto, religion
 tuhota, destroy
 peite, cover/mask/blanket/coating
+alunperin, orginally
