@@ -634,3 +634,22 @@ uskonto, religion
 tuhota, destroy
 peite, cover/mask/blanket/coating
 alunperin, orginally
+kiuas, heater
+liikkuminen, movement/physical exercise
+törmäys, collision/impact/shock/bump
+poimia, pick up/pick/glean/pluck
+arviolta, roughly/rough
+joutua, get/have to/be forced to/hurry up/make haste/move along/to come/arrive
+avustus, aid/allowance/relief/contribution/benefit
+uskoa, believe/believe in/entrust/think/trust/suppose
+pommi, bomb
+kai, probably
+kaista, lane
+hyökkäys, attack/assault/aggression/raid/offense
+maanjäristys, earthquake
+jälkiä, footprint/footstep/impress/stamp/impression/trace/scar
+raivata, clear(rempove obstructions)/demine(remove mine)
+varhain, early/betimes
+vahinko, damage
+törmätä, bump into/hit/stumble/smash into
+liikkua, move/travel/stir/go/to exercise (perform physical activity)
