@@ -719,3 +719,24 @@ proteiini, protein
 rasva, fat/grease
 kuitu, fiber/roughage
 vitamiini, vitamin
+siemen/siemenet, seed
+ravinto, food/nutrition/nourishment/nutriment
+ravintoneuovoja, nutritionist
+neuvoja, advisor
+asiantuntija/ekspertti, expert
+valio, pick/choice/elite
+sattua, occur/happen/befall/come about
+fani, fan/groupie
+stadioni, stadium
+tarkoitus, purpose/intention/objective
+ottelu, match/game/fight
+tappaa, kill/slay/murder/put to death/eliminate
+kostaa, revenge/avenge/take vengeance/requite
+pyhä, holy/sacred
+koraani, koran
+suuttua, get angry
+teko, act/artificial/making/deed/action
+surunvalitteluja, condolences
+valittelu, complaint
+painaa, press/weigh/print/impress/weigh down/imprint/stamp/pin/run
+lopullinen, final/definitive/ultimate/conclusive/eventual
