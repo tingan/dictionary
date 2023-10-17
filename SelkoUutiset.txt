@@ -669,3 +669,17 @@ etuus, preference/benefit/entitlement
 laskea, count/calculate/fall/lower/decrease/compute/decline/evaluate/descend/sink
 vähitellen, gradually
 lisää, more
+käärijä, wrapper
+huumaa, drug/intoxication
+leivos, fancy cake/cake
+biisi, song
+silmäänpistävä, eye-catching/glaring/outstanding/obvious/prominent
+pistävä, pungent/piercing/sharp/penetrative/penetrating/nippy
+asu, outfit/dress/wear/attire/garb
+ilmoitus, ad/notification
+neliö, square meter/ four rooms house
+yksiö, 1 room house
+kaksio , 2 rooms house
+kolmio, 3 rooms house
+tilava, spacious
+ahdas, cramped/narrow
