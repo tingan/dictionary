@@ -691,3 +691,31 @@ veto, bet/pull/traction
 voima, force/power/strength/investity/might
 viehättävä, attractive
 houlutteleva, attractive/tempting/inviting/desirable
+kodinhoitohuone, utility room
+koristaa, garnish/decorate
+punertavan, reddish
+laminaatti, laminate
+yhteydessä, in connection with
+mukavuus, comform/convenience/ease/nicety
+lasitettu, glazed/glaze/vitrify
+säilitys, preservation/conservation
+ehdoton, absolute/unconditional/definitive/strict/best
+olla helmi/olla hienoin asia, to be the best thing
+valiot, championships/pick
+ruokavaliot/dieetti, diets/regime/regimen
+lihoa, gain weight
+laihtua, lose weight
+laihduttaa, slim down/slim/reduce
+tottumus, habit/custom/practice
+tapa, way/mode/habit/practice/manner
+ulkonäkö, looks/look/exterior/aspect/face
+terveys, health/state of health
+kunto, condition/fitness/form/state/shape
+laiha, lean/thin
+lihava, fat/bold
+keho, body
+hiilihydraatti, carbonhydrate
+proteiini, protein
+rasva, fat/grease
+kuitu, fiber/roughage
+vitamiini, vitamin
