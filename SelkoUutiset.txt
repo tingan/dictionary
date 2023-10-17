@@ -683,3 +683,11 @@ kaksio , 2 rooms house
 kolmio, 3 rooms house
 tilava, spacious
 ahdas, cramped/narrow
+sijainti, location/position/site
+varma, secure/sure/certain/assured/safe/satisfied/assertive/established
+vetovoimaisin, most attractive
+vetovoima, magnetism/attraction/appeal/traction/gravitation/draw/charisma
+veto, bet/pull/traction
+voima, force/power/strength/investity/might
+viehättävä, attractive
+houlutteleva, attractive/tempting/inviting/desirable
