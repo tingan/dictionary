@@ -740,3 +740,47 @@ surunvalitteluja, condolences
 valittelu, complaint
 painaa, press/weigh/print/impress/weigh down/imprint/stamp/pin/run
 lopullinen, final/definitive/ultimate/conclusive/eventual
+laaja/leveä, wide/broad/comphrehensive/extensive
+kapea, narrow/slender
+valikoima, selection/range/choice/variety/repertoire
+taiteellinen, creative/artistic
+tuotanto, production/output/work/produce/manufacture/making
+nosta esiin, bring up/highlight
+nostaa, lift/raise/elevate/hoist/push  up/draw/withdraw money/
+korostaa, highlight/stress/emphasize/underline/underscore/accent/pick out/press
+huoli, worry/concern/anxiety/care/fear
+esillä, in the limelight/in evidence/out in the open/visible/showing/on view/on show/on display
+kapinallinen,rebellious/rebel/insurgent
+kapina, rebellion/uprising/revolt/insurgency
+kapinoida, rebel/to mutiny against/rise up in mutiny against/protest against/resist
+kapinallisuus, rebelliousness
+juttu, talk/tale/anecdote/story/thing/business/matter/object/item/bag/cup of tea/cup of joe/event/case/affair
+edistää, promote/encourage/foster/advance/further/boost/forward/benefit/nurture/gain/nourish
+päin, towards
+alkeiskurssi, elementary course
+alkeet, rudiments/beginnings/ABC/alphabet
+yhdistys, association/society/union
+alkaa, to begin/start/initiate/set in /be initiated/originate/take its origin
+tutkinta, investigation/inquest/law hearing
+upota, sink/get stuck/bet bogged down/to bite/go over/strike home/do its work
+suhtautua, to react to something/to relate/to concern/to deal with something/to look on/to look upon
+kolari, collision/crash/smash
+törmätä, walk into/hit/stumbe/bump/smash into/fall foul/bash into
+reagoida, respond to/react to /act up/be responsive to
+lautta, ferry/ferryboat/raft/float
+taidemaalari, painter
+laakso, valley/dale/vale/dingle
+palkinto,prize/reward/award/trophy
+sortaa, bully/oppress
+ihmisoikeudet, human rights
+ankara, severe/harsh
+vankila, prison
+kohdella, treat/handle/serve/use
+vakava, serious/severe/grave/solemn/heavy/sober/grievous
+rangaistus,punishment/penalty/sanction/sentence/chastisement/discipline
+tiukka, tight/strict/rigorous/stringent/rigid
+pätevä, valid/good/competent/professional/effectual/certified/proficient
+rikoillinen, criminal
+puolustaa, defend/excuse/justify/advocate/uphold/assert/champion/maintain
+taistella, fight/combat/battle/struggle
+taata, gurantee/ensure/secure/insure/warrant/pledge/vouchsafe
