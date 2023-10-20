@@ -784,3 +784,11 @@ rikoillinen, criminal
 puolustaa, defend/excuse/justify/advocate/uphold/assert/champion/maintain
 taistella, fight/combat/battle/struggle
 taata, gurantee/ensure/secure/insure/warrant/pledge/vouchsafe
+kuivata,dry/mop/dehydrate/desiccate/wipe up
+kuivaus, dry
+tumpata, put out a cigarette
+kylpylä, spa/baths
+höyryhuone, steam room
+höyry/löyly, steam
+kylpy, bath/tub/spa/soak/ablution
+lähipiiri, close circle
