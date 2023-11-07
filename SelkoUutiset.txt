@@ -820,3 +820,23 @@ alus, ship/vessel/craft/underlay/base/space under something
 ennakkoluulo, preduice/bias
 köyhyys, poverty
 kunnia, honor/glory/kudos/distinction
+ilmeisesti, apparently/obviously/evidently/seemingly/supposedly
+ilmeinen, obvious/manifest/apparent
+mieleenpainuvin, most memorable/impressive
+Kiinan muuri, The great wall
+laajentua, expand
+Sotilaallinen paraati, military parade
+lippunnostotilaisuus, flag raising ceremony
+tilaiisuus, occassion
+koordinoida, coordinate
+levitä, spread/propagate/extend/be transmitted
+lakkolainen, striker
+enintään, at most/at maximum/not more than
+pysäyttää/lopettaa, stop/halt
+säilyä, last/abide/remain/be preserved/endure
+säilöä, preserve (food)
+pystyä, be able to/can
+kunto, condition/fitness/form/state/shape
+etenkin/erityisesti/varsinkin/erikoisen, especially/in particular
+pääasiassa, principally/mostly/largely/chiefly
+lähestyä, approach/draw near/come near
