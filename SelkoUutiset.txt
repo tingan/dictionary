@@ -840,3 +840,7 @@ kunto, condition/fitness/form/state/shape
 etenkin/erityisesti/varsinkin/erikoisen, especially/in particular
 pääasiassa, principally/mostly/largely/chiefly
 lähestyä, approach/draw near/come near
+sirrtää, postpone/transfer/move/pass/shift/transmit/assign/carry/carry forward/relocate
+kiusata, bully/tease/torment/trouble/harass/annoy
+epäjärjestys, disorder/clutter/disarray/confusion/mayhem/disturbance
+lukutaido, reading skills/literacy
