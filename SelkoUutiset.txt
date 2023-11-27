@@ -856,3 +856,28 @@ kohtelu, treatment/deal
 murhe, sorrow/grief/woe/pain/headache
 alkuperäinen, original/native/primary/indigenous
 kansa, people/nation/population/folk
+purkaa, dismantle/demolish
+houkutella, lure/attract/entice/tempt/bait/draw/seduce/elicit
+koristella, ornament/decorate/garnish/prettify
+ilmanpuhdistimen, air purifier
+sairastelu, illness
+merkkittävästi, significantly
+selvittää, sort out/clarify/clear up/resolve/unravel/untangle
+ilmanpuhdistus, air purification
+vaikuttaa, influence/affect
+henkilökunta, staff/personnel/payroll
+poissaolo, absence
+tiedottomuus, unconsciousness/absence
+kohtuullinen, reasonable/fair/moderate/modest
+rauhoittaa, reassure/appease/soothe/calm down
+kohina/melu/meteli, noise/murmur
+perustelu, argument/reasoning/motivation/rationalization
+koskettava, touching/moving/affecting/poignant
+alkuperäiskansa, indigenous people
+henkilöllisyys/identiteetti/identtisyys/samuus, identity
+lähes, nearly/near/close to/approximately
+kohota,rise/climb
+kohottaa, raise/lift
+voimistaa, strengthen
+pureva, biting/sharp/incisive/mordant/bitter/piercing/acid
+tuulenpuuska, flurry/blast/gust
