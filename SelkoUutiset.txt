@@ -919,3 +919,6 @@ vähentyä, decrease
 vähentää, decrease/reduce/diminish/deduct/subtract
 enemmistö, majority/plurality/the many/great mass of
 etenkin, especially/in particular/particularly
+paraati, parade
+vastustaa, resist/oppose/withstand/protest
+pelko, fear/anxiety/horror
